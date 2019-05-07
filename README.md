@@ -1,5 +1,6 @@
 Scrap Escape
 ================
+Game engine written in OpenGL.
 
 Download:
 https://www.dropbox.com/s/ngiuae4aa3yi9xi/scrap_escape_v101.rar?dl=0
@@ -18,21 +19,6 @@ Adam Brodd
 Leon Viio
 Emil Hallin
 Fu Keung Tu
-
-
-Movement
-----------------
-
-W - move forward
-
-S - move backward
-
-
-How it works
-----------------
-
-Explain!
-
 
 Third Party Libs
 ----------------
